@@ -12,5 +12,3 @@
 // console.log(idade);
 // idade--;
 //operados de atribuição
-
-
